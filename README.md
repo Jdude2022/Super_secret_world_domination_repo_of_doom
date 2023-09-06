@@ -6,6 +6,7 @@ What we know:
 2. Learning in public seems effective
 3. Ai and ML are taking over atm
 4. Use domain knowledge if you have it.
+5. Newsletter, can't act without information.
 
 Steps to world domination or job readyness:
   1. Social media presence. <looking at TikTok, youtube shorts, Linkdin>
